@@ -61,6 +61,6 @@ export const allNav = [
         title: 'Live Chat',
         icon: <IoChatboxSharp />,
         role: 'admin',
-        path: '/admin/dashboard/chats'
+        path: '/admin/dashboard/chat-seller'
     },
 ]
